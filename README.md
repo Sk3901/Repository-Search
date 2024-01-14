@@ -6,5 +6,6 @@ This program was made as a school project part of a React.js course
 
 
 <h3>Demo</h3>
+
 https://github.com/Sk3901/Repository-Search/assets/154440028/38fe6e70-a08f-42ca-bbae-27eae2f646ca
 
