@@ -25,7 +25,7 @@ function App() {
 
   return (
     <>
-      <h2>Repositories</h2>
+      <h2>Search for repositories</h2>
       <input type="text" onChange={inputChanged} value={keyword} />
       <button onClick={fetchRepos}>Search</button>
       {error && <p>{error}</p>}
